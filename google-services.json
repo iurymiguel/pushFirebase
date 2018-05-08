@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "991987094804",
+    "firebase_url": "https://pushionic-f15e3.firebaseio.com",
+    "project_id": "pushionic-f15e3",
+    "storage_bucket": "pushionic-f15e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991987094804:android:4b16f190d477f1fa",
+        "android_client_info": {
+          "package_name": "com.angularfirebase.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991987094804-joh3nf5k145sja5gd6qhm0tl19n703b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrUveCaMLvZhfn4JWSZFo5d2TwCCfIoRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
